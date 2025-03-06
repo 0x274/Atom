@@ -21,13 +21,16 @@
 Atom is a **fully customized script built off Vape v4**.  
 This project has been heavily modified to introduce new features, optimize performance, and enhance stability while maintaining the core principles of Vape v4.  
 
-## Credits:
-
-@7GrandDad - Lead maintainer of the project (vaperoblox on Discord)
-@rce-incorporated - Luau bytecode disassembly with modifications
-@Egor Skriptunoff, boatbomber, and howmanysmall - HashLibrary for Luau
-@Vernumerator - Projectile prediction for Roblox
-@0x274 - Contributor & Developer
+## Developers & Credits
+[7GrandDad](https://github.com/7GrandDadPGN) - Lead maintainer of the project - vaperoblox on Discord
+<br/>
+[rce-incorporated](https://github.com/rce-incorporated/Fiu) - Luau bytecode disassembly with modifications
+<br/>
+[Egor Skriptunoff, boatbomber, and howmanysmall](https://devforum.roblox.com/t/open-source-hashlib/416732/1) - HashLibrary for Luau
+<br/>
+[Vernumerator](https://devforum.roblox.com/t/predict-projectile-ballistics-including-gravity-and-motion/1842434) - Projectile prediction for Roblox
+<br/>
+[Constellation](https://github.com/0x274) - Contributor & Developer
 
 ## Usage
 1. Download the specific scripting utility of your choice.
