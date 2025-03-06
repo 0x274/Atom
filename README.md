@@ -11,6 +11,16 @@
   Rise up to the top while remaining completely untouchable.
 </h2>
 
+## ⚠️ Warning
+**Atom is currently in beta testing!**  
+- Expect possible bugs, instability, or performance issues.  
+- May cause lag depending on your scripting utility.  
+- Updates will be frequent as improvements are made.  
+
+## About Atom  
+Atom is a **fully customized script built off Vape v4**.  
+This project has been heavily modified to introduce new features, optimize performance, and enhance stability while maintaining the core principles of Vape v4.  
+
 ## Contacts
 [Discord](https://discord.gg/ZqS836yx9k)
 
