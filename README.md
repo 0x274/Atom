@@ -18,8 +18,8 @@
 - Updates will be frequent as improvements are made.  
 
 ## About Atom  
-Atom is a **fully customized script built off Vape v4**.  
-This project has been heavily modified to introduce new features, optimize performance, and enhance stability while maintaining the core principles of Vape v4.  
+Atom is a **fully customized script built off Vape V4**.  
+This project has been heavily modified to introduce new features, optimize performance, and enhance stability while maintaining the core principles of Vape V4.  
 
 ## Developers & Credits
 [7GrandDad](https://github.com/7GrandDadPGN) - Lead maintainer of the project - vaperoblox on Discord
